@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laffa2025.github.io/sitemap-releiturasmusicais/sitemap.xml
